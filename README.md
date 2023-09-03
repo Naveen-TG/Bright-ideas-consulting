@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/930ff28f8e22e70b00cfa.jpg" alt="VijayTG">
+  <img src="https://graph.org/file/37cd67bab9bcd37f40a35.jpg" alt="VijayTG">
 </p>
 <a align="center">
   <b>Naan Mudhalvan</b>
