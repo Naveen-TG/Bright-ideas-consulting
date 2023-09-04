@@ -14,4 +14,4 @@
 * Jegadhish
 * [Johnson](https://github.com/Johnvirat)
 * Karthick Raja
-* [Muthuraman].(https://github.com/Muthuraman-04)
+* [Muthuraman](https://github.com/muthuraman-04)
