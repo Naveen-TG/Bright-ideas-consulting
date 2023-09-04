@@ -11,4 +11,7 @@
 
 ## Team Members 
 
-* [Johnson](https://github.com/Johnvirat) 
+* Jegadhish
+* [Johnson](https://github.com/Johnvirat)
+* Karthick Raja
+* Muthuraman 
