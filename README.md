@@ -5,7 +5,7 @@
   <b>Bright Ideas Consuling</b>
 </h1>
 
-(https://readme-typing-svg.herokuapp.com/?lines=Preparation+And+Maintanence+Of+ZOHO+Books+For+Brighr+Ideas+Consulting_)
+### Preparation And Maintanence Of ZOHO Books For Bright Ideas Consulting_ 
 
 
 #### Team ID : NM2023TMID21311
