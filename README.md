@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/37cd67bab9bcd37f40a35.jpg" alt="VijayTG">
 </p>
 <h1 align="center">
-  <b>Bright Ideas    Consulting</b>
+  <b>Bright Ideas Consulting</b>
 </h1>
 
 ###### Preparation And Maintanence Of ZOHO Books For Bright Ideas Consulting_ 
