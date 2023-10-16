@@ -5,7 +5,7 @@
   <b>Bright Ideas Consulting</b>
 </h1>
 
-<p align="center"><a href="https://drive.google.com/file/d/1or43NpGCXo_etDyT8DQL5nqB2bhw23JZ/view?usp=drivesdk"><img src="https://img.shields.io/badge/Demostration%20Video-blue"/></a></p>
+<p align="center"><a href="https://drive.google.com/file/d/1or43NpGCXo_etDyT8DQL5nqB2bhw23JZ/view?usp=drivesdk"><img src="https://img.shields.io/badge/Demostration%20Video-red"/></a></p>
 
 ##### Preparation And Maintanence Of ZOHO Books For Bright Ideas Consulting_ 
 
